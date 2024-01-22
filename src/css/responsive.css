@@ -1,0 +1,43 @@
+@media (max-width: 425px) {
+    .header{
+        margin: 20px 30px;
+    }
+    .header img{
+        width: 100px;
+    }
+    .container{
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    .hero .imagem img{
+        width: 220px;
+        margin-left: 40px;
+    }
+
+    .informativo{
+        width: 220px;
+        padding: 40px;
+        text-align: center;
+    }
+    .informativo h1{
+        font-size: 20px;
+    }
+    .informativo p{
+        font-size: 10px;
+    }
+
+    .informativo button{
+        font-size: 10px;
+        padding: 10px 35px;
+    }
+
+    .footer{
+        display: flex;
+        justify-content: center;
+    }
+    .footer .social a i{
+        width: 10px;
+    }
+}
+   
