@@ -14,11 +14,11 @@ body{
 
 .container{
     display: flex;
-    justify-content: center;
 }
 
 .hero .imagem img{
     width: 550px;
+    margin-left: 70px;
 }
 
 .informativo{
